@@ -1,0 +1,2 @@
+# training
+only for trainings
